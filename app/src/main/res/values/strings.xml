@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MathAppChirstophe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="firstNumber">0</string>
+    <string name="operator">+</string>
+    <string name="secondNumber">0</string>
+    <string name="equals">=</string>
+    <string name="score">Score:</string>
+    <string name="scoreString">0/0</string>
+
+</resources>
